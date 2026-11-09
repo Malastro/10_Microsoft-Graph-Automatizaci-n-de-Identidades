@@ -1,4 +1,4 @@
-# 10_Microsoft-Graph-Automatización de Identidades
+# Lab10: Microsoft Graph & Automatización de Identidades
 
 ## 1. Descripción del proyecto
 
