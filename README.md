@@ -16,6 +16,7 @@ El laboratorio desarrollará dos Service Principals independientes: uno destinad
 
 La solución incorporará controles de acceso, validaciones, gestión de errores y mecanismos de trazabilidad para demostrar cómo automatizar operaciones IAM sin depender de credenciales personales ni conceder privilegios innecesarios.
 
+
 ## 2. Objetivos del proyecto
 
 - Comprender los fundamentos de PowerShell y su aplicación en la administración de identidades.
@@ -30,8 +31,7 @@ La solución incorporará controles de acceso, validaciones, gestión de errores
 - Utilizar mecanismos de gestión de errores, registro de operaciones y validación de resultados.
 - Comprobar mediante pruebas negativas que cada identidad de aplicación está limitada a los permisos que necesita.
 - Documentar la arquitectura, las decisiones técnicas y los resultados obtenidos.
-
-## 3. Arquitectura 
+  
 
 ## 3. Arquitectura del proyecto
 
