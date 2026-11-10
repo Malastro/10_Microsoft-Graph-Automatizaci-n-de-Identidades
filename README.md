@@ -18,6 +18,19 @@ La solución incorporará controles de acceso, validaciones, gestión de errores
 
 ## 2. Objetivos del proyecto
 
+- Comprender los fundamentos de PowerShell y su aplicación en la administración de identidades.
+- Aprender a utilizar Microsoft Graph API para consultar y gestionar recursos de Microsoft Entra ID.
+- Desarrollar scripts de PowerShell para automatizar tareas de auditoría de usuarios.
+- Comprender las diferencias entre aplicaciones, Service Principals e identidades de usuario.
+- Implementar autenticación App-Only mediante certificados digitales y el flujo OAuth 2.0 Client Credentials.
+- Configurar dos Service Principals independientes con permisos de aplicación específicos.
+- Aplicar el principio de mínimo privilegio mediante la separación de funciones de auditoría y remediación.
+- Analizar información de identidades y actividad de inicio de sesión, teniendo en cuenta los requisitos de licencia de Microsoft Entra ID.
+- Implementar controles para ejecutar acciones administrativas de forma explícita y segura.
+- Utilizar mecanismos de gestión de errores, registro de operaciones y validación de resultados.
+- Comprobar mediante pruebas negativas que cada identidad de aplicación está limitada a los permisos que necesita.
+- Documentar la arquitectura, las decisiones técnicas y los resultados obtenidos.
+
 ## 3. Arquitectura 
 
 ## 4. Fases de implementación
